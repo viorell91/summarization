@@ -4,7 +4,6 @@ import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.*;
-
 /**
  * Created by Shahbaz on 11/06/2016.
  */
